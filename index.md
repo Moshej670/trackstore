@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to a GitHub Pages repository made by me.
 
-You can use the [editor on GitHub](https://github.com/Moshej670/trackstore/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is still in the making so for now please enjoy some lorem ipsum
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed consectetur augue. Morbi dignissim vel dolor et semper. Morbi varius mi sed nunc luctus iaculis. Phasellus tristique ut est in suscipit. Cras ut mauris at justo dictum iaculis nec in risus. Maecenas gravida odio dui, non pretium enim commodo ac. Curabitur ultrices elit tellus, ut semper arcu mattis et. Donec vel blandit nulla, cursus vehicula magna. Ut venenatis arcu quis posuere cursus. Duis sem nisi, auctor id rutrum ut, interdum eget metus. Proin luctus tellus laoreet vehicula fringilla. Praesent id felis accumsan, ultrices risus at, tincidunt augue. Donec in nulla eu neque vulputate rutrum at in ante. Fusce ullamcorper nunc venenatis pellentesque ullamcorper. Maecenas quis porta magna.
 
-```markdown
-Syntax highlighted code block
+Aliquam tristique leo eu purus vestibulum, a lacinia orci hendrerit. Aliquam sit amet elit ut quam maximus volutpat. Aliquam scelerisque felis sit amet neque sollicitudin, in scelerisque arcu laoreet. Proin condimentum facilisis bibendum. Suspendisse molestie suscipit ex, id auctor massa ullamcorper aliquam. Fusce hendrerit nunc et tempor facilisis. Donec quis nulla vel arcu euismod rutrum. Sed ullamcorper ultrices efficitur.
 
-# Header 1
-## Header 2
-### Header 3
+Maecenas nibh tortor, condimentum eget auctor sed, luctus eget quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque faucibus dapibus metus vel vehicula. Aliquam luctus luctus risus at interdum. Quisque in fringilla lectus, et vulputate dolor. Etiam cursus bibendum magna, ut tristique lectus lobortis sit amet. Nunc tincidunt at risus vel tempus. Sed facilisis laoreet congue. Praesent vitae convallis nulla. Phasellus pharetra enim blandit pretium convallis. Curabitur in dignissim nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-- Bulleted
-- List
+Vestibulum at porta augue, non malesuada magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin interdum lacus et enim maximus blandit. Maecenas a sem quis arcu tempor tincidunt. Proin aliquet, orci eget aliquam ultrices, odio mauris aliquam arcu, ac dignissim ipsum velit quis metus. Nullam laoreet arcu ex, sed consectetur velit commodo ut. Integer vel interdum augue, in lobortis ex. Phasellus hendrerit aliquam purus, sit amet iaculis ante. Curabitur commodo nisi lacus, eget condimentum nibh dignissim non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus volutpat libero diam, eget maximus lectus pulvinar nec. In molestie lacus sed tortor consectetur, a condimentum enim pulvinar. Cras at ultricies felis, quis tristique justo. In vitae lorem quis velit maximus vulputate.
 
-1. Numbered
-2. List
+Morbi pharetra, felis dapibus placerat aliquam, erat velit efficitur tellus, et laoreet lorem ex sit amet augue. Vestibulum fermentum dolor ut purus porta blandit. Praesent volutpat pretium purus, posuere ullamcorper risus porttitor eget. Ut et sapien enim. Donec sed lorem nec justo placerat luctus sit amet id felis. Aenean iaculis rutrum aliquet. Curabitur ut facilisis sapien, a imperdiet sem. Vivamus egestas euismod tellus a scelerisque. Nam pretium mi et neque luctus hendrerit. Suspendisse id dictum mauris. Etiam sem nisl, cursus id nibh eu, mattis luctus enim. Curabitur commodo dolor non velit pellentesque ullamcorper. Aliquam sed erat diam. Integer sem odio, aliquet a pulvinar a, congue vestibulum elit.
 
-**Bold** and _Italic_ and `Code` text
+Generated 5 paragraphs, 511 words, 3490 bytes of Lorem Ipsum
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Moshej670/trackstore/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
